@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    font-weight: bold;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12px;
+    align-items: center;
+}
+.right ul li{
+    display: inline;
+    margin-right: 24px;
+    font-weight: bold;
+}
